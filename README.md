@@ -48,7 +48,12 @@ https://user-images.githubusercontent.com/77936621/209404535-9aca6d5b-d3b8-447b-
 https://user-images.githubusercontent.com/77936621/209404571-f89f0552-36b3-49a9-915d-bfc91132b290.mp4
 
 
-
+## Lab Files
+ * FIFO.c : Fifo Implementation.
+ * Student_mangement_system.c : Main Project APIS.
+ * main.c : the main routine.
+ * FIFO.h : Fifo Headerfile which Contain Main Fifo APIS.
+ * Student_mangement_system.h : Main Application Header file which contain main APIS.
 
 
 
