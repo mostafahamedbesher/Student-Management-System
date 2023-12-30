@@ -2,9 +2,7 @@
 
 ## Description
 
- * Database Mangement System Based On FIFO Data Structure. 
- * It Has Several Features Such As Adding New Students, Deleting Students, Searching For Students And Finding Total Number Of Students.
- * Tools : Eclipse IDE.
+Developed a Database Management System utilizing the FIFO (First-In-First-Out) data structure for efficient data handling. The system encompasses various features, including the addition and deletion of student records, student search functionality, and the computation of the total number of students. Executed the project using the Eclipse IDE. Named "Student Management System," this initiative reflects my capability in designing and implementing database systems with a focus on organized data processing and retrieval.
  
 ## How Student-Management-System Works
 
